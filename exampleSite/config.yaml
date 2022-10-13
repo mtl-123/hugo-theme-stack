@@ -198,7 +198,7 @@ menu:
           name: GitHub
           url: https://github.com/mtl-123
           params:
-              icon: github-svgrepo
+              icon: brand-github
 
         - identifier: twitter
           name: 推特

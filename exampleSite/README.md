@@ -1,1 +1,1 @@
-Example site modified from https://github.com/gohugoio/hugoBasicExample
+示例站点修改自https://github.com/gohugoio/hugoBasicExample

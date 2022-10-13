@@ -28,6 +28,7 @@ image = "blog.jpg"
 
 [hugo](https://themes.gohugo.io/)
 
+[wiki.js](https://js.wiki/)
 
 # 网络托管服务
 

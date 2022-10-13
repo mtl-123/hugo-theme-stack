@@ -13,7 +13,7 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
+series = ["主题指南"]
 aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++

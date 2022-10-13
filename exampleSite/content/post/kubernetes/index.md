@@ -4,8 +4,8 @@ title = "Kubernetes"
 date = "2022-10-13"
 description = "kubernetes 学习之路"
 categories = [
-    "容器编排平台"，
-    "虚拟化技术"，
+    "容器编排平台",
+    "虚拟化技术",
 ]
 tags = [
     "kubernetes",

@@ -17,3 +17,24 @@ image = "Python.jpg"
 
 
 # Python  大杂烩
+
+[TOC]
+
+## 基础语法
+### 变量
+
+```python
+name = '1'
+name = '2'
+
+print(name)
+
+```
+### 打印
+```python
+print("hello Workd")
+
+```
+### for循环
+### where循环
+### if else判断

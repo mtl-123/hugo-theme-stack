@@ -19,3 +19,9 @@ image = "blog.jpg"
 # 记录个人博客框架
 
 [Halo ](https://halo.run/themes.html)
+
+[Solo](https://b3log.org/solo/#themes)
+
+[hexo](https://hexo.io/themes/)
+
+[jekyll](http://jekyllcn.com/)

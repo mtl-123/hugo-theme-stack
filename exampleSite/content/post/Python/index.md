@@ -20,7 +20,6 @@ image = "Python.jpg"
 
 
 ## Python笔记
-[Python包管理工具](/hugo-theme-stack/code/Python/packaging_tools.mm.md)
 
 
 

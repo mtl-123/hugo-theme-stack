@@ -33,3 +33,5 @@ image = "blog.jpg"
 # 网络托管服务
 
 [GitHub提供的网络托管服务，适用于GitHub上托管的任何静态网站](https://zh.altapps.net/soft/github-pages)
+
+[Travis 支持github登录](https://www.travis-ci.com/)

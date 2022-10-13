@@ -17,6 +17,3 @@ image = "Python.jpg"
 
 
 # Python  大杂烩
-
-[Web 框架](./Python/web_framework/)
-[Python包管理工具库](./Python/packaging_tools.mm.md)

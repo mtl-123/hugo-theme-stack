@@ -34,4 +34,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-' image '字段同时接受本地和外部图像。
+'image'字段同时接受本地和外部图像。

@@ -7,7 +7,7 @@ aliases:
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2022-10-12'
+lastmod: '2022-10-13'
 menu:
     main: 
         weight: -90

@@ -15,6 +15,6 @@ image = "Docker.jpg"
 
 # Docker
 
-![Dcoker学习路线图](./Docker-学习路线图.jpg)
+![Dcoker学习路线图](Docker-学习路线图.jpg)
 
 ## Docker 简介

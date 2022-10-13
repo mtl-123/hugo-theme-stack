@@ -4,7 +4,7 @@ title = "Docker"
 date = "2022-10-13"
 description = "Docker 学习之路"
 categories = [
-    "容器化技术",
+    "容器技术",
 ]
 tags = [
     "Docker",
@@ -18,3 +18,5 @@ image = "Docker.jpg"
 ![Dcoker学习路线图](Docker-学习路线图.jpg)
 
 ## Docker 简介
+
+[docker-compose的用法](docker-compose.md)

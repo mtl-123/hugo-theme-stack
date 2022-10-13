@@ -198,13 +198,7 @@ menu:
           name: GitHub
           url: https://github.com/mtl-123
           params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+              icon: github-svgrepo
 
         - identifier: twitter
           name: 推特
@@ -228,12 +222,12 @@ related:
           weight: 100
 
         - name: categories
-          weight: 200
+          weight: 100
 
 markup:
     goldmark:
         renderer:
-            ## Set to true if you have HTML content inside Markdown
+            ## 如果Markdown中有HTML内容，则设置为true
             unsafe: false
     tableOfContents:
         endLevel: 4

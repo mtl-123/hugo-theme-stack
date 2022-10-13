@@ -1,15 +1,15 @@
 ---
 author: Hugo Authors
-title: Math Typesetting
-date: 2019-03-08
-description: A brief guide to setup KaTeX
+title: 数学排版
+date: 2022-10-13
+description: 设置KaTeX的简短指南
 math: true
 ---
 
-Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
+Hugo项目中的数学表示法可以通过使用第三方JavaScript库来启用。
 <!--more-->
 
-In this example we will be using [KaTeX](https://katex.org/)
+在这个例子中，我们将使用 [KaTeX](https://katex.org/)
 
 - Create a partial under `/layouts/partials/math.html`
 - Within this partial reference the [Auto-render Extension](https://katex.org/docs/autorender.html) or host these scripts locally.

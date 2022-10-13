@@ -4,11 +4,11 @@
 
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-Card-style Hugo theme designed for bloggers.
+为博主设计的卡片式雨果主题。
 
 ## Quickstart
 
-Use this template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+使用这个模板: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
 ## Demo
 
@@ -23,6 +23,6 @@ Visit [stack.jimmycai.com](https://stack.jimmycai.com)
 
 **Licensed under the GNU General Public License v3.0**
 
-Please do not remove the "*Theme Stack designed by Jimmy*" text and link.
+请不要删除“*Theme Stack designed by Jimmy*”的文字和链接。
 
-If you want to port this theme to another blogging platform, please let me know🙏.
+如果你想港口这一主题,以另一个博客平台,请让我知道🙏.

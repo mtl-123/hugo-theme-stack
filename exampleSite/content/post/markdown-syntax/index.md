@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+author = "梅桃林"
+title = "Markdown 语法指导"
+date = "2022-10-13"
+description = "示例文章展示了HTML元素的基本Markdown语法和格式。"
 tags = [
     "markdown",
     "css",
@@ -18,7 +18,7 @@ aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+本文提供了一个可在Hugo内容文件中使用的基本Markdown语法示例，还展示了在Hugo主题中是否使用CSS装饰基本HTML元素。
 <!--more-->
 
 ## Headings

@@ -22,8 +22,13 @@ image = "blog.jpg"
 
 [Solo](https://b3log.org/solo/#themes)
 
-[hexo](https://hexo.io/themes/)
+[hexo](https://hexo.io/themes/) 
 
 [jekyll](http://jekyllcn.com/)
 
 [hugo](https://themes.gohugo.io/)
+
+
+# 网络托管服务
+
+[GitHub提供的网络托管服务，适用于GitHub上托管的任何静态网站](https://zh.altapps.net/soft/github-pages)

@@ -18,7 +18,11 @@ image = "Python.jpg"
 
 # Python  大杂烩
 
-[TOC]
+
+## Python笔记
+[Python包管理工具](/hugo-theme-stack/code/Python/packaging_tools.mm.md)
+
+
 
 ## 基础语法
 ### 变量

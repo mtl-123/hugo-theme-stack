@@ -7,4 +7,5 @@ menu:
             icon: user
 ---
 
-This is a test page for i18n support.
+这是一个i18n支持的测试页面。
+

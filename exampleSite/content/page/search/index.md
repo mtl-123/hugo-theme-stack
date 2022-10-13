@@ -1,4 +1,5 @@
 ---
+
 title: "Search"
 slug: "search"
 layout: "search"
@@ -10,4 +11,5 @@ menu:
         weight: -60
         params: 
             icon: search
+
 ---

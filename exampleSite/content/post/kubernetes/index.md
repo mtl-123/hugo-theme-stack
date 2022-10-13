@@ -16,7 +16,7 @@ image = "kubernetes-icon.jpg"
 
 # Kubernetes介绍
 
-一、简介
+## 一、简介
 
 - 什么是Kubernetes
 
@@ -36,6 +36,25 @@ image = "kubernetes-icon.jpg"
 
 
 ![Kubernetes学习路线图](kubernetes-学习路线图.png)
+
+## 二、安装
+### 在线安装
+#### Ubuntu
+```bash
+apt update
+
+```
+#### CentOS
+```bash
+yum update
+```
+
+### 二进制安装
+
+#### ubuntu
+
+#### CentOS
+
 
 <!--more-->
 ---

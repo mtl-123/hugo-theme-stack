@@ -10,6 +10,6 @@ menu:
     main:
         weight: -60
         params: 
-            icon: 搜索
+            icon: search
 
 ---

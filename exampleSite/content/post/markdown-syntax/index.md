@@ -10,18 +10,19 @@ tags = [
     "themes",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "主题",
+    "语法",
 ]
 series = ["主题指南"]
 aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+image = "markdown-syntax-language.jpg"
+
 +++
 
 本文提供了一个可在Hugo内容文件中使用的基本Markdown语法示例，还展示了在Hugo主题中是否使用CSS装饰基本HTML元素。
 <!--more-->
 
-## Headings
+## 标题
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
@@ -32,29 +33,29 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 ##### H5
 ###### H6
 
-## Paragraph
+##  段
 
 Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
 
 Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
-## Blockquotes
+## 区块引语
 
 The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
 
-#### Blockquote without attribution
+#### 引用没有归属
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
-#### Blockquote with attribution
+#### 引用与归因
 
 > Don't communicate by sharing memory, share memory by communicating.<br>
 > — <cite>Rob Pike[^1]</cite>
 
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
-## Tables
+## 表
 
 Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
@@ -63,7 +64,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
     Bob | 27
   Alice | 23
 
-#### Inline Markdown within tables
+#### 表中的内联Markdown
 
 | Italics   | Bold     | Code   |
 | --------  | -------- | ------ |
@@ -73,9 +74,9 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
 
-## Code Blocks
+## 代码块
 
-#### Code block with backticks
+#### 带有反勾号的代码块
 
 ```html
 <!doctype html>
@@ -90,7 +91,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 </html>
 ```
 
-#### Code block indented with four spaces
+#### 用四个空格缩进的代码块
 
     <!doctype html>
     <html lang="en">
@@ -103,7 +104,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
     </body>
     </html>
 
-#### Code block with Hugo's internal highlight shortcode
+#### 代码块与Hugo的内部高亮短代码
 {{< highlight html >}}
 <!doctype html>
 <html lang="en">
@@ -117,7 +118,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 </html>
 {{< /highlight >}}
 
-#### Diff code block
+#### Diff代码块
 
 ```diff
 [dependencies.bevy]
@@ -127,21 +128,21 @@ rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
 + features = ["jpeg", "dynamic"]
 ```
 
-## List Types
+## 列表类型
 
-#### Ordered List
+#### 有序列表
 
 1. First item
 2. Second item
 3. Third item
 
-#### Unordered List
+#### 无序列表
 
 * List item
 * Another item
 * And another item
 
-#### Nested list
+#### 嵌套列表
 
 * Fruit
   * Apple
@@ -151,7 +152,7 @@ rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
   * Milk
   * Cheese
 
-## Other Elements — abbr, sub, sup, kbd, mark
+## 其他元素-缩写，sub, sup, kbd, mark
 
 <abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
 
@@ -163,6 +164,6 @@ Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the ses
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
 
-## Hyperlinked image
+## 超链接图片
 
 [![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)](https://google.com)

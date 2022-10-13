@@ -25,3 +25,5 @@ image = "blog.jpg"
 [hexo](https://hexo.io/themes/)
 
 [jekyll](http://jekyllcn.com/)
+
+[hugo](https://themes.gohugo.io/)

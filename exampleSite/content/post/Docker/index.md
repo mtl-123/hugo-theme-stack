@@ -19,4 +19,3 @@ image = "Docker.jpg"
 
 ## Docker 简介
 
-[docker-compose的用法](docker-compose.md)

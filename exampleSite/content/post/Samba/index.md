@@ -22,23 +22,25 @@ image = "samba.jpeg"
 sudo yum install samba -y
 
 # 启动
-m@m:~$ sudo service smb start
+sudo service smb start
 [sudo] m 的密码：
 Redirecting to /bin/systemctl start smb.service
 
 # 设置开机自启动
-m@m:~$ sudo systemctl enable smb
+sudo systemctl enable smb
 Created symlink /etc/systemd/system/multi-user.target.wants/smb.service → /usr/lib/systemd/system/smb.service.
 
 # 停止samba
-m@m:~$ sudo systemctl stop smb
+sudo systemctl stop smb
 
 # 创建共享文件夹
 mkdir -p /home/m/Shared_Folder
+
 # 设置权限
 sudo chmod 777 /home/m/Shared_Folder
+
 # 配置samba
-m@m:~$ cd /etc/samba/
+ cd /etc/samba/
 m@m:/etc/samba$ ls
 lmhosts  smb.conf  smb.conf.example
 m@m:/etc/samba$
@@ -65,12 +67,13 @@ sudo smbpasswd -a root
 # 重启samba
 sudo systemctl restart smb
 ```
+
 ### 配置防火墙通过
 ```bash
 
-m@m:~$ sudo firewall-cmd --permanent --zone=public --add-service=samba
+sudo firewall-cmd --permanent --zone=public --add-service=samba
 success
-m@m:~$ sudo firewall-cmd --reload
+sudo firewall-cmd --reload
 success
 ```
 ### Windows 访问

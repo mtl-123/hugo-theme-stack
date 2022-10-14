@@ -28,6 +28,8 @@ image = "blog.jpg"
 
 [hugo](https://themes.gohugo.io/)
 
+[wowchemy](https://wowchemy.com/zh/templates/)
+
 [wiki.js](https://js.wiki/)
 
 # 网络托管服务

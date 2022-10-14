@@ -76,10 +76,10 @@ success
 sudo firewall-cmd --reload
 success
 ```
+
 ### Windows 访问
-win+e 键 打开文件夹 输入\\ip+共享目录
+win+e 键 打开文件夹 输入\\ip
 ![Windows 访问](windows-access.jpg)
-### 查看状态
-```bash
-getsebool -a | grep samba
-```
+
+---
+

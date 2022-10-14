@@ -16,7 +16,8 @@ image = "samba.jpeg"
 # Samba 网络文件共享服务
 
 ## 安装
-### CentOS
+
+### CentOS安装
 ```bash
 # 安装
 sudo yum install samba -y
@@ -40,10 +41,9 @@ mkdir -p /home/m/Shared_Folder
 sudo chmod 777 /home/m/Shared_Folder
 
 # 配置samba
- cd /etc/samba/
+cd /etc/samba/
 m@m:/etc/samba$ ls
 lmhosts  smb.conf  smb.conf.example
-m@m:/etc/samba$
 
 # 修改配置并添加共享信息
 sudo vim smb.conf

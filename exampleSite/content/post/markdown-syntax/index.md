@@ -5,15 +5,11 @@ date = "2022-10-13"
 description = "示例文章展示了HTML元素的基本Markdown语法和格式。"
 tags = [
     "markdown",
-    "css",
-    "html",
-    "themes",
 ]
 categories = [
-    "主题",
-    "语法",
+    "markdown",
 ]
-series = ["主题指南"]
+series = ["markdown"]
 aliases = ["migrate-from-jekyl"]
 image = "markdown-syntax-language.jpg"
 
@@ -35,9 +31,14 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ##  段
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+他说：“我要做的就是做好准备。
+您的位置：我也知道>地区>地区>地方>地方，
+你是不是真的不知道该怎么做？
+安静点。
+他说：“我不知道你的脸是什么样子的，我的脸也是这样的。
+这是一项重要的工作，它的目的是为了更好地保护人类的健康。
+伊塔图尔？
+Quiatae cullecum rem aut odis in reeosequodi non sequiidebis ne senicia is sinveli siquium，core et que aut hariosam ex eat.
 
 ## 区块引语
 

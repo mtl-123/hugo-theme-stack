@@ -18,6 +18,7 @@ image = "markdown-syntax-language.jpg"
 本文提供了一个可在Hugo内容文件中使用的基本Markdown语法示例，还展示了在Hugo主题中是否使用CSS装饰基本HTML元素。
 <!--more-->
 
+[markdown 教程](https://markdown.jianguoyun.com/jiaocheng)
 ## 标题
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
